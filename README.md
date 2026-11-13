@@ -6,15 +6,13 @@ Centroids expand simultaneously across the grid through successive square bounda
 
 ## Demo
 
-![Voronoi Tessellation](https://raw.githubusercontent.com/Smee18/voronoi_tesselation/main/voronoi.mp4)
+![Voronoi Tessellation](voronoi.gif)
 
 ## Installation
 
 ```bash
 pip install numpy matplotlib
 ```
-
-FFmpeg is required for MP4 export.
 
 ## Usage
 
@@ -31,6 +29,6 @@ Optional arguments:
 | `--batch` | 20 | Pixels per animation frame |
 | `--interval` | 30 | Frame interval (ms) |
 | `--fps` | 30 | Video FPS |
-| `--output` | voronoi.mp4 | Output filename |
+| `--output` | voronoi.gif | Output filename |
 | `--seed` | None | Random seed |
 
