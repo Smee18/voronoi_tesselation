@@ -6,7 +6,7 @@ Centroids expand simultaneously across the grid through successive square bounda
 
 ## Demo
 
-![Voronoi Tessellation](sprawl.mp4)
+![Voronoi Tessellation](https://raw.githubusercontent.com/Smee18/voronoi_tesselation/main/voronoi.mp4)
 
 ## Installation
 
