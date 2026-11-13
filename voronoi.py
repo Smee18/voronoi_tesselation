@@ -175,7 +175,7 @@ if __name__ == "__main__":
         help="Output video frames per second"
     )
     parser.add_argument(
-        "--output", type=str, default="sprawl.mp4",
+        "--output", type=str, default="voronoi.mp4",
         help="Output video filename"
     )
     parser.add_argument(
